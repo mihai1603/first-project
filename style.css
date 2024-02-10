@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+.box1{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+}
+.box2{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(129, 40, 40);
+    position: absolute;
+    top:20px;
+    left:50px;
+}
